@@ -1,0 +1,7 @@
+C:\c-sharp\c-sharp\Variable\Variable\bin\Debug\Variable.exe.config
+C:\c-sharp\c-sharp\Variable\Variable\bin\Debug\Variable.exe
+C:\c-sharp\c-sharp\Variable\Variable\bin\Debug\Variable.pdb
+C:\c-sharp\c-sharp\Variable\Variable\obj\Debug\Variable.csprojAssemblyReference.cache
+C:\c-sharp\c-sharp\Variable\Variable\obj\Debug\Variable.csproj.CoreCompileInputs.cache
+C:\c-sharp\c-sharp\Variable\Variable\obj\Debug\Variable.exe
+C:\c-sharp\c-sharp\Variable\Variable\obj\Debug\Variable.pdb

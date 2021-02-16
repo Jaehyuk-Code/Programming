@@ -1,0 +1,6 @@
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe.config
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.exe
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\bin\Debug\ReadandWrite.pdb
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.csproj.CoreCompileInputs.cache
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.exe
+C:\c-sharp\c-sharp\ReadandWrite\ReadandWrite\obj\Debug\ReadandWrite.pdb

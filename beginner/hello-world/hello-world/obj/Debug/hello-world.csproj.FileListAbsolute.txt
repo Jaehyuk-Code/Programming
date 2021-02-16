@@ -1,0 +1,7 @@
+C:\c-sharp\c-sharp\hello-world\hello-world\bin\Debug\hello-world.exe.config
+C:\c-sharp\c-sharp\hello-world\hello-world\bin\Debug\hello-world.exe
+C:\c-sharp\c-sharp\hello-world\hello-world\bin\Debug\hello-world.pdb
+C:\c-sharp\c-sharp\hello-world\hello-world\obj\Debug\hello-world.csprojAssemblyReference.cache
+C:\c-sharp\c-sharp\hello-world\hello-world\obj\Debug\hello-world.csproj.CoreCompileInputs.cache
+C:\c-sharp\c-sharp\hello-world\hello-world\obj\Debug\hello-world.exe
+C:\c-sharp\c-sharp\hello-world\hello-world\obj\Debug\hello-world.pdb
