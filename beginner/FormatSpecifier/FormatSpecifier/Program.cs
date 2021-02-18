@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace FormatSpecifier
 {
@@ -21,7 +17,7 @@ namespace FormatSpecifier
             Console.WriteLine(s); //출력 1234.57
             s = string.Format("{0:D8}", 1234);
             Console.WriteLine(s); //출력 00001234
-            s = string.Format("0:F3}", 1234.56);
+            s = string.Format("{0:F3}", 1234.56);
             Console.WriteLine(s); // 출력 1234.560
 
             Console.WriteLine(1234.5678.ToString("N2")); //출력 1,234.57
