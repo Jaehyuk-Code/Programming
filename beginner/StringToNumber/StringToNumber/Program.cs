@@ -14,7 +14,7 @@ namespace StringToNumber
             int value;
 
             input = Console.ReadLine();
-            bool result = Int32.TryParse(input, out value);
+            bool result = Int32.TryParse(input, out value); //input을 정수 value로 변환
 
             if(!result)
             {
